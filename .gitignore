@@ -1,0 +1,18 @@
+# Ignorar archivos compilados y generados por IDEs
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+/target/
+bin/
+*.log
+
+# Ignorar archivos de Haskell
+*.hi
+*.o
+
+# Ignorar archivos de NetBeans
+nbproject/
+.nb-gradle/
+build/
