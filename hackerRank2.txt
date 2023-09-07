@@ -1,0 +1,40 @@
+/*
+Guillermo Gauthier
+Nro estudiante: 314081
+*/
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner lector = new Scanner(System.in);
+        String input = lector.nextLine();
+        String [] palabras = input.split(" ");
+        
+        int max = 0;
+        String primera = "";
+        int min = 400;
+        String segunda = "";
+         String retorno = ""; 
+          for (int i = 0 ; i < palabras.length -1 ; i++){
+              retorno = palabras[i] + palabras[i+1];
+            if (retorno.length() > max ){
+                max = retorno.length();
+                primera = palabras[i];
+                min = retorno.charAt(0);
+                segunda = palabras [i+1];
+            }
+        }
+        
+        retorno = primera + segunda;
+        
+        
+        
+       
+        
+        System.out.println(retorno);
+        
+    }
+}
