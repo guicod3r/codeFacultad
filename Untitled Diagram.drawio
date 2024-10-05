@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="PZSjXGrZAQiPclHjUj1C">
-    <mxGraphModel dx="3405" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4567" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
             <mxPoint x="-813.16" y="1178.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xpJBkuAklqcqO7udE7nf-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="xpJBkuAklqcqO7udE7nf-34" target="xpJBkuAklqcqO7udE7nf-64" edge="1">
+        <mxCell id="xpJBkuAklqcqO7udE7nf-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontStyle=1" parent="1" source="xpJBkuAklqcqO7udE7nf-34" target="xpJBkuAklqcqO7udE7nf-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-873" y="1618" as="sourcePoint" />
             <mxPoint x="-710" y="1520" as="targetPoint" />
@@ -671,7 +671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xpJBkuAklqcqO7udE7nf-76" value="RNE: si la divisa a adquirir son gemas, el importe es en pesos.&lt;div&gt;Si en cambio se adquiere monedas, el importe es en gemas y&lt;/div&gt;&lt;div&gt;se descuenta de la misma billetera&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1410" y="1410" width="360" height="60" as="geometry" />
+          <mxGeometry x="-1455" y="1370" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xpJBkuAklqcqO7udE7nf-77" value="Conoce" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="1515" width="80" height="80" as="geometry" />
@@ -768,6 +768,111 @@
         </mxCell>
         <mxCell id="QuLPJNTy__jm2jF_UdSS-27" value="1:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-345" y="1648.75" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-1" value="RNE:&amp;nbsp;los valores posibles a seleccionar son&lt;div&gt;&amp;nbsp;“18-24”, “25-34”,&lt;br/&gt;“35-44”, “45-54”, “55-64”, “65 o más”&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-465" y="1033.75" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-1" target="Rh4NYGwO05SISdUezt3Q-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-494" y="1241" as="sourcePoint" />
+            <mxPoint x="-459" y="1261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xpJBkuAklqcqO7udE7nf-76" target="xpJBkuAklqcqO7udE7nf-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1353" y="1558" as="sourcePoint" />
+            <mxPoint x="-1291" y="1546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-4" value="valores posibles:&lt;br&gt;femenino, masculino o no binario.&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22RNE%3A%26amp%3Bnbsp%3Blos%20valores%20posibles%20a%20seleccionar%20son%26lt%3Bdiv%26gt%3B%26amp%3Bnbsp%3B%E2%80%9C18-24%E2%80%9D%2C%20%E2%80%9C25-34%E2%80%9D%2C%26lt%3Bbr%2F%26gt%3B%E2%80%9C35-44%E2%80%9D%2C%20%E2%80%9C45-54%E2%80%9D%2C%20%E2%80%9C55-64%E2%80%9D%2C%20%E2%80%9C65%20o%20m%C3%A1s%E2%80%9D%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-465%22%20y%3D%221033.75%22%20width%3D%22260%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-494%22%20y%3D%221241%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-343%22%20y%3D%221150%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22RNE%3A%26amp%3Bnbsp%3Blos%20valores%20posibles%20a%20seleccionar%20son%26lt%3Bdiv%26gt%3B%26amp%3Bnbsp%3B%E2%80%9C18-24%E2%80%9D%2C%20%E2%80%9C25-34%E2%80%9D%2C%26lt%3Bbr%2F%26gt%3B%E2%80%9C35-44%E2%80%9D%2C%20%E2%80%9C45-54%E2%80%9D%2C%20%E2%80%9C55-64%E2%80%9D%2C%20%E2%80%9C65%20o%20m%C3%A1s%E2%80%9D%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-465%22%20y%3D%221033.75%22%20width%3D%22260%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-494%22%20y%3D%221241%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-343%22%20y%3D%221150%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-697.5" y="1145" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-4" target="Rh4NYGwO05SISdUezt3Q-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-756.5" y="1342.25" as="sourcePoint" />
+            <mxPoint x="-605.5" y="1251.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-6" value="valores posibles:&lt;br&gt;femenino, masculino o no binario.&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22RNE%3A%26amp%3Bnbsp%3Blos%20valores%20posibles%20a%20seleccionar%20son%26lt%3Bdiv%26gt%3B%26amp%3Bnbsp%3B%E2%80%9C18-24%E2%80%9D%2C%20%E2%80%9C25-34%E2%80%9D%2C%26lt%3Bbr%2F%26gt%3B%E2%80%9C35-44%E2%80%9D%2C%20%E2%80%9C45-54%E2%80%9D%2C%20%E2%80%9C55-64%E2%80%9D%2C%20%E2%80%9C65%20o%20m%C3%A1s%E2%80%9D%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-465%22%20y%3D%221033.75%22%20width%3D%22260%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-494%22%20y%3D%221241%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-343%22%20y%3D%221150%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22RNE%3A%26amp%3Bnbsp%3Blos%20valores%20posibles%20a%20seleccionar%20son%26lt%3Bdiv%26gt%3B%26amp%3Bnbsp%3B%E2%80%9C18-24%E2%80%9D%2C%20%E2%80%9C25-34%E2%80%9D%2C%26lt%3Bbr%2F%26gt%3B%E2%80%9C35-44%E2%80%9D%2C%20%E2%80%9C45-54%E2%80%9D%2C%20%E2%80%9C55-64%E2%80%9D%2C%20%E2%80%9C65%20o%20m%C3%A1s%E2%80%9D%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-465%22%20y%3D%221033.75%22%20width%3D%22260%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%222%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-494%22%20y%3D%221241%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-343%22%20y%3D%221150%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="811.25" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-6" target="Rh4NYGwO05SISdUezt3Q-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-187" y="1008.5" as="sourcePoint" />
+            <mxPoint x="22.5" y="870.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-8" value="valores posibles: “Apoyo educativo”,&lt;div&gt;&amp;nbsp;“Enseñanzas de Idiomas” o&lt;br/&gt;“Preparación de exámenes”&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1763.62" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-9" value="objetivo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1777.62" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="1eRboqlNWYikHSPvI2qL-9" source="xpJBkuAklqcqO7udE7nf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="1751.25" as="sourcePoint" />
+            <mxPoint x="-138" y="1731.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-9" target="1eRboqlNWYikHSPvI2qL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="1710" as="sourcePoint" />
+            <mxPoint x="197" y="1788" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-13" value="valores posibles:&amp;nbsp;&lt;div&gt;femenina o masculina&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-772.5" y="291.25" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-13" target="Rh4NYGwO05SISdUezt3Q-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-582" y="406" as="sourcePoint" />
+            <mxPoint x="-582" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-15" value="&amp;nbsp;puede ser alegre, calmo, seguro,&lt;div&gt;&amp;nbsp;energético u optimista.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="260" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-15" target="Rh4NYGwO05SISdUezt3Q-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-442" y="389.63" as="sourcePoint" />
+            <mxPoint x="-476" y="347.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-17" value="valores posible: seguro,&lt;br&gt;tímido, energético, práctico,&lt;div&gt;&amp;nbsp;soñador, artístico o lógico)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1095" y="963" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-17" target="Rh4NYGwO05SISdUezt3Q-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-791" y="934" as="sourcePoint" />
+            <mxPoint x="-710" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-19" value="valores posibles: cabello, piel, cuerpo,&lt;div&gt;&amp;nbsp;ojos, maquillaje, accesorios.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="170" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-19" target="Rh4NYGwO05SISdUezt3Q-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-121" y="131" as="sourcePoint" />
+            <mxPoint x="-135" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-21" value="&lt;div&gt;valores posibles: de verano, de primavera, anime,&lt;/div&gt;&lt;div&gt;&amp;nbsp;oficina,&lt;span style=&quot;background-color: initial;&quot;&gt;fiesta, deporte,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;camisetas, otras.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="21" y="160" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1eRboqlNWYikHSPvI2qL-21" target="Rh4NYGwO05SISdUezt3Q-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="121" as="sourcePoint" />
+            <mxPoint x="310" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-23" value="valores posibles: mensual&lt;div&gt;&amp;nbsp;(por 1 o 12 meses) o de por vida.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="1440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1eRboqlNWYikHSPvI2qL-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xpJBkuAklqcqO7udE7nf-24" target="1eRboqlNWYikHSPvI2qL-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="1685" as="sourcePoint" />
+            <mxPoint x="-414" y="1689" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
